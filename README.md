@@ -16,4 +16,4 @@ In my first machine learning project, I delved into logistic regression, a model
 
 ## References
 [Prediction of Underwater Surface Target through
-SONAR]([http://yourlink.com](https://www.jetir.org/papers/JETIR1907H24.pdf))
+SONAR](https://www.jetir.org/papers/JETIR1907H24.pdf)
