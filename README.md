@@ -8,4 +8,12 @@ The dataset, sourced from the UCI Repository, encompasses 61 features that delin
 ## Model
 The chosen model for this project is Logistic Regression. Logistic regression is a statistical model that employs a logistic function to model a binary dependent variable. This function, often represented as a sigmoid or logit function, transforms the input values into a range between 0 and 1, forming an "S" shaped curve. By utilizing this sigmoid function, logistic regression mitigates the impact of outliers and ensures that the output remains within the 0 to 1 range. Given its binary classification nature, logistic regression is well-suited for predicting whether an object is a mine or a rock based on sonar data.
 
+## Workflow
 ![WorkFlow](https://github.com/gokul-sreenath/Rock-vs-Mine-Prediction/blob/main/image/workflow.png)
+
+## Conclusion
+In my first machine learning project, I delved into logistic regression, a model for binary classification. I explored how to utilize Python libraries such as scikit-learn, numpy, and pandas to construct and train the model. Moreover, I gained insights into evaluating the model's effectiveness by analyzing input data.
+
+## References
+[Prediction of Underwater Surface Target through
+SONAR]([http://yourlink.com](https://www.jetir.org/papers/JETIR1907H24.pdf))
